@@ -1,0 +1,15 @@
+{
+  "name": "twill-chocomint-syntax",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "description": "Give your atoms the vague flavor of mint",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/twillik/twill-chocomint-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
